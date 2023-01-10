@@ -10,3 +10,10 @@ c=int(input())
 average=(a+b+c)/3
 
 print(average)
+
+#input - 
+3
+4
+6
+#ouput-
+4.333333333333333
